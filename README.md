@@ -31,10 +31,6 @@ Slide Decks
 
     - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley)
 
--   [Trust & Safety Ecosystem](https://docs.google.com/presentation/d/1nMbpNDGmrqWrJrFm3QiPYrbuH7keYa4evJ33MEpq2sg/edit?usp=sharing)
-
-    - Devika Malik (Ex-Meta, South Asia); Amanda Menking (Trust & Safety Foundation)
-
 -   [Content Moderation](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing)
 
     - Joseph Seering (KAIST)
