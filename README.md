@@ -53,7 +53,7 @@ Slide Decks
 
 -   [Suicide, Self-Harm, and Well-Being](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing)
 
-    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley)
+    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory)
 
 -   [Authentication, Identity, and Platform Manipulation](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing)
 
