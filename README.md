@@ -66,3 +66,44 @@ Slide Decks
 -   [Emerging Technologies and Career Advice](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing)
 
     -  Michael Swenson (Meta); Amar Ashar (Berkman Klein Center)
+
+Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Year
+-----------
+
+-   Kevin Aslett, University of Central Florida
+
+    -  Politics Of Online Security
+
+-   Olga Belogolova, Johns Hopkins School of Advanced International Studies
+    -  Influence Operations in the Digital Age
+
+-   Lee Foster, Johns Hopkins School of Advanced International Studies
+    -  Threat Intelligence for Information Operations
+
+-   Camille François, Columbia University School of International and Public Affairs 
+    -  Introduction to Trust & Safety
+
+-   Justin Francese, University of Oregon
+    -  Communication Law J385
+
+-   Inbal Goldberger, ActiveFence 
+    -  NYU - ActiveFence Trust & Safety Academy
+
+-   Shelby Grossman, Stanford Internet Observatory
+    -  Trust and Safety Engineering
+
+-   Jeff Hancock, Stanford Internet Observatory
+    -  Trust and Safety Engineering
+
+-   Laura McLester, The University of Alabama at Birmingham
+    -  Trust and Safety
+
+-   Lisa Schirch, University of Notre Dame
+    -  Peacetech and Digital Peacebuilding
+
+-   Joseph Seering, KAIST
+    -  Trust and Safety Engineering and Practice
+
+-   Alex Stamos, Stanford Internet Observatory
+    -  Trust and Safety Engineering
+
