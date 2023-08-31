@@ -71,7 +71,6 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 -----------
 
 -   Kevin Aslett, University of Central Florida
-
     -  Politics Of Online Security
 
 -   Olga Belogolova, Johns Hopkins School of Advanced International Studies
