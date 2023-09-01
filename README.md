@@ -95,7 +95,7 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
     -  Trust and Safety Engineering
 
 -   Laura McLester, The University of Alabama at Birmingham
-    -  Trust and Safety
+    -  Digital Safety
 
 -   Lisa Schirch, University of Notre Dame
     -  Peacetech and Digital Peacebuilding
