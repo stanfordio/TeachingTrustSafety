@@ -19,7 +19,7 @@ Reading List 
 Slide Decks
 -----------
 
--   [Introduction to Trust and Safety ](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing)
+-   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety)
 
     - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights)
 
