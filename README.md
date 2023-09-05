@@ -85,6 +85,9 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 -   Justin Francese, University of Oregon
     -  Communication Law J385
 
+-   Beth Goldberg, Yale University
+    -  Misinformation in the Age of AI
+      
 -   Inbal Goldberger, ActiveFence 
     -  NYU - ActiveFence Trust & Safety Academy
 
