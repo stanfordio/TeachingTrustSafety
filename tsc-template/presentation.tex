@@ -1,0 +1,91 @@
+%! TEX program = lualatex
+
+\documentclass[nobackground,dvipsnames,table]{beamer}
+\usepackage{tsc}
+\usepackage{pdfpc}
+\usepackage{pgfpages}
+\usepackage{multimedia}
+
+\mode<presentation>
+{\usetheme{default}
+	\usecolortheme{tsc}
+	\setbeamercovered{transparent}
+	\useinnertheme[shadow=false]{rounded}
+	\usebackgroundtemplate{}
+	\setbeamercolor*{frametitle}{parent=palette primary}
+	\setbeamerfont{block title}{size={}}
+	\setbeamertemplate{navigation symbols}{}
+    \setbeamertemplate{itemize items}[circle]
+    \setbeamertemplate{enumerate items}[circle]
+}
+%%%%%%%% edit hyperlink colors %%%%%%%%
+\hypersetup{
+  colorlinks   = true, 
+  urlcolor     = tscurl, % color of external hyperlinks
+  linkcolor    = white,   % color of internal links
+}
+%%% below command addresses log output error when trying to use \\ in \author %%%
+\pdfstringdefDisableCommands{%
+  \def\\{}%
+}
+
+\date[]{}
+\subject{Trust and Safety}
+
+\AddToShipoutPictureBG*{
+  \AtPageLowerLeft{\hspace{-0.4cm}
+    \includegraphics[width=13.1cm]{img/consortium-image}}
+}
+
+% Change this to make a file with just slides, just notes or both
+%\setbeameroption{hide notes}                 % Only slides
+%\setbeameroption{show only notes}            % Only notes
+\setbeameroption{show notes on second screen} % Both
+
+
+
+% XXX Edit below here
+
+\title{The full title}
+\author[]{The authors}
+
+\begin{document}
+
+\begin{frame}
+	\titlepage
+\end{frame}
+
+\begin{frame}{The topic at hand}
+    \begin{itemize}
+        \item One
+        \item Two
+        \item Three
+        \note[item]{This is a secret note for just you}
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Other concerns}
+    \begin{enumerate}
+        \item Square
+        \item Triangle
+        \item Polyhedron
+    \end{enumerate}
+\end{frame}
+
+\begin{frame}{Images}
+    You can include images
+    \includegraphics[width=0.8\textwidth]{img/consortium-image}
+\end{frame}
+
+\begin{frame}{URLs}
+    You can do hyperlinks this way
+
+    \href{https:://google.com}{Hyperlinked text}
+
+    Or the full URL
+
+    \url{https://google.com}
+
+\end{frame}
+
+\end{document}
