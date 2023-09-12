@@ -27,9 +27,9 @@ Slide Decks
 
     - Karen Maxim
 
--  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing)
+-  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
-    - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley)
+    - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
 -  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing)
 
