@@ -16,12 +16,12 @@ Reading List 
 
 [Reading list](https://docs.google.com/document/d/179j30Z7TxB4b8r_6wPAcAXrJXctbTOqXRtSb-75UvsI/edit?usp=sharing)
 
-Slide Decks
+Slide Decks and Exercises
 -----------
 
--   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety)
+-   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety) [(Full-Course Exercise)](https://docs.google.com/document/d/1on99g0WWS8PEMHph1hsSPDOg2reSPhT3FKjVAWi9Swg/edit?usp=sharing)
 
-    - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights)
+    - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Alex Stamos (Stanford Internet Observatory); Shelby Grossman (Stanford Internet Observatory)
 
 -  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) 
 
