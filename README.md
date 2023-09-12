@@ -47,13 +47,13 @@ Slide Decks
 
     - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas)
 
--  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing)
+-  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing)
 
     - Caroline Humer (International Centre for Missing & Exploited Children); Leslie Taylor (Genpact)
 
 -  Suicide, Self-Harm, and Well-Being [(Google Slides)](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AIBPHTRaEHMpB7yVtK7Njh1W4wlEz0EQ3oKGDI1uEKU/edit?usp=sharing)
 
-    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory)
+    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
 
 -  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing)
 
