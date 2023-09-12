@@ -43,7 +43,7 @@ Slide Decks and Exercises
 
     -  Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Inga Trauthig (The University of Texas at Austin)
 
--  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing)
+-  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing)
 
     - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas)
 
