@@ -55,9 +55,9 @@ Slide Decks
 
     -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
 
--  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing)
+-  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
 
-    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler)
+    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance)
 
 -  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing)
 
