@@ -59,9 +59,9 @@ Slide Decks and Exercises
 
     -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance)
 
--  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing)
+-  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1EWQEVh4poRkINWgge4zsJmHp0J8Bni23ovc2j7ktyW4/edit?usp=sharing)
 
-    -  Alex Leavitt (Roblox; UC Berkeley)
+    -  Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
 -   Emerging Technologies and Career Advice [(Google Slides)](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing)
 
