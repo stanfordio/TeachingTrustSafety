@@ -27,7 +27,7 @@ Slide Decks and Exercises
 
     - Karen Maxim
 
--  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
+-  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
     - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
