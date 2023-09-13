@@ -1,0 +1,127 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tsc}
+
+\usepackage{silence}
+\WarningFilter{latex}{Overfull,Underfull}
+\WarningFilter{polyglossia}{}
+
+\usepackage{amsfonts}          % blackboard math symbols
+\usepackage{nicefrac}          % compact symbols for 1/2, etc.
+\usepackage{microtype}         % microtypography
+\usepackage{fontspec}          % Allow use of TrueType fonts and such
+\usepackage{graphicx}          % For including various graphics
+\usepackage{graphbox}          % For including various graphics
+\usepackage[export]{adjustbox} % For putting borders around things
+\usepackage{caption}           % For caption styling
+\usepackage{subcaption}        % Subcaptions
+\usepackage{float}             % More options for floats
+\usepackage{parskip}           % Kill indents
+\usepackage{fancyhdr}          % For making nice headers and footers
+\usepackage{eso-pic}           % Background images
+\usepackage{xcolor}            % Define your own colors
+\usepackage{tabularx}          % Easier and prettier tables
+\usepackage{underscore}        % Make it so we don't have to escape underscores
+\usepackage[]{csquotes}
+\MakeOuterQuote{"}
+\usepackage{ragged2e}          % Allow use of raggedright
+\usepackage{fnpct}             % Some finesse for footnotes
+\usepackage{colortbl}          % Let table rows have color
+\usepackage[absolute,overlay]{textpos} % Absolute text positioning
+\usepackage{emoji}             % \emoji{heart-eyes}
+\usepackage{tikz}              % Drawing fancy diagrams
+\usetikzlibrary{calc,matrix,shadows}
+\usepackage{environ}           % Dependency for timelines
+\usepackage{soul}              % Configurable underlines and strikethroughs
+\usepackage{pdfcomment}        % Add alt text with tooltips
+
+% Font setup
+\setmainfont[Ligatures=TeX]{IBM Plex Serif}
+\setsansfont[Ligatures=TeX]{IBM Plex Sans}
+\defaultfontfeatures{Ligatures=TeX}
+\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
+
+% Colors
+\definecolor{coolgrey}{RGB}{77,79,83}
+\definecolor{ltstone}{HTML}{D4D1D1}
+\definecolor{tscteal}{RGB}{41,88,105}
+\definecolor{tscurl}{RGB}{56,130,148}
+
+\urlstyle{sf}
+
+% Table styling. Use L instead of X to make it raggedright.
+\newcolumntype{L}{>{\raggedright\arraybackslash} X}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}
+\renewcommand{\arraystretch}{1.2}
+\renewcommand\tabularxcolumn[1]{m{#1}}
+
+% Make clickable footnote
+% See http://www.brechtdeman.com/blog/latex-clickable-footnote.html
+\newcommand{\footurl}[1][]{\def\ArgI{{#1}}\footurlRelay}
+\newcommand\footurlRelay[2][]{\href{#1#2}{\ArgI}\footnote{\sf\href{#1#2}{#2}}}
+
+% Include an image with alt text
+\newcommand\imgalt[3][]{%
+    \pdftooltip{
+        \includegraphics[#1]{#2}
+    }{#3}
+}
+
+% Include an image with a nice drop shadow
+\pgfdeclarelayer{shadow}
+\pgfsetlayers{shadow,main}
+
+\newcommand\shadowimage[2][]{%
+    \begin{tikzpicture}
+        \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[#1]{#2}};
+        \drawshadow{image}
+    \end{tikzpicture}}
+
+% Strikethrough an image
+\newcommand\includebs[2][]{%
+\begin{tikzpicture}
+    \node[anchor=south west,inner sep=0] (image) at (0,0) {
+            \includegraphics[#1]{#2}
+    };
+    \begin{scope}[x={(image.south east)},y={(image.north west)}]
+        \draw[red!50,line width=2mm,opacity=0.7] (0, 0)--(1, 1);
+    \end{scope}
+    \drawshadow{image}
+\end{tikzpicture}
+}
+
+% Shadowbox
+\def\shadowshift{1pt,-1pt}
+\def\shadowradius{3pt}
+
+\colorlet{innercolor}{black!60}
+\colorlet{outercolor}{gray!05}
+
+% this draws a shadow under a rectangle node
+\newcommand\drawshadow[1]{
+    \begin{pgfonlayer}{shadow}
+        \shade[outercolor,inner color=innercolor,outer color=outercolor] ($(#1.south west)+(\shadowshift)+(\shadowradius/2,\shadowradius/2)$) circle (\shadowradius);
+        \shade[outercolor,inner color=innercolor,outer color=outercolor] ($(#1.north west)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$) circle (\shadowradius);
+        \shade[outercolor,inner color=innercolor,outer color=outercolor] ($(#1.south east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$) circle (\shadowradius);
+        \shade[outercolor,inner color=innercolor,outer color=outercolor] ($(#1.north east)+(\shadowshift)+(-\shadowradius/2,-\shadowradius/2)$) circle (\shadowradius);
+        \shade[top color=innercolor,bottom color=outercolor] ($(#1.south west)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$) rectangle ($(#1.south east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$);
+        \shade[left color=innercolor,right color=outercolor] ($(#1.south east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$) rectangle ($(#1.north east)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$);
+        \shade[bottom color=innercolor,top color=outercolor] ($(#1.north west)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$) rectangle ($(#1.north east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$);
+        \shade[outercolor,right color=innercolor,left color=outercolor] ($(#1.south west)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$) rectangle ($(#1.north west)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$);
+        \filldraw ($(#1.south west)+(\shadowshift)+(\shadowradius/2,\shadowradius/2)$) rectangle ($(#1.north east)+(\shadowshift)-(\shadowradius/2,\shadowradius/2)$);
+    \end{pgfonlayer}
+}
+
+% Include an image with alt text
+\newcommand\shadowalt[3][]{%
+    \pdftooltip{
+        \shadowimage[#1]{#2}
+    }{#3}
+}
+
+% Include an image with alt text
+\newcommand\bsalt[3][]{%
+    \pdftooltip{
+        \includebs[#1]{#2}
+    }{#3}
+}
