@@ -31,7 +31,7 @@ Slide Decks and Exercises
 
     - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
--  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing)
+-  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
 
     - Joseph Seering (KAIST)
 
@@ -39,7 +39,7 @@ Slide Decks and Exercises
 
     -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University) 
 
--  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing)
+-  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing)
 
     -  Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Inga Trauthig (The University of Texas at Austin)
 
