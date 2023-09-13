@@ -16,54 +16,54 @@ Reading List 
 
 [Reading list](https://docs.google.com/document/d/179j30Z7TxB4b8r_6wPAcAXrJXctbTOqXRtSb-75UvsI/edit?usp=sharing)
 
-Slide Decks
+Slide Decks and Exercises
 -----------
 
--   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety)
+-   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety) [(Full-Course Exercise)](https://docs.google.com/document/d/1on99g0WWS8PEMHph1hsSPDOg2reSPhT3FKjVAWi9Swg/edit?usp=sharing)
 
-    - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights)
+    - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Alex Stamos (Stanford Internet Observatory); Shelby Grossman (Stanford Internet Observatory)
 
--   [Government Regulation](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) 
+-  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
 
     - Karen Maxim
 
--   [Metrics and Measurement](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing)
+-  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
-    - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley)
+    - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
--   [Content Moderation](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing)
+-  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Content%20Moderation) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
 
     - Joseph Seering (KAIST)
 
--   [Information Environment](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing)
+-  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment)
 
     -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University) 
 
--   [Terrorism, Radicalization, and Extremism](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing)
+-  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Terrorism%2C%20Radicalization%2C%20and%20Extremism) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing)
 
     -  Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Inga Trauthig (The University of Texas at Austin)
 
--   [Harassment and Hate Speech](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing)
+-  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing)
 
     - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas)
 
--   [Child and Adult Sexual Exploitation](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing)
+-  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing)
 
     - Caroline Humer (International Centre for Missing & Exploited Children); Leslie Taylor (Genpact)
 
--   [Suicide, Self-Harm, and Well-Being](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing)
+-  Suicide, Self-Harm, and Well-Being [(Google Slides)](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AIBPHTRaEHMpB7yVtK7Njh1W4wlEz0EQ3oKGDI1uEKU/edit?usp=sharing)
 
-    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory)
+    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
 
--   [Authentication, Identity, and Platform Manipulation](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing)
+-  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
 
-    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler)
+    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance)
 
--   [Types of Attack Surfaces](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing)
+-  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1EWQEVh4poRkINWgge4zsJmHp0J8Bni23ovc2j7ktyW4/edit?usp=sharing)
 
-    -  Alex Leavitt (Roblox; UC Berkeley)
+    -  Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
--   [Emerging Technologies and Career Advice](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing)
+-   Emerging Technologies and Career Advice [(Google Slides)](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1sUhWuNvlOtxQPIHIGNEKWblvOWXTGKw1FAkl0vXhCEI/edit?usp=sharing)
 
     -  Michael Swenson (Meta); Amar Ashar (Berkman Klein Center)
 
