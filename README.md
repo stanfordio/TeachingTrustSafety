@@ -23,7 +23,7 @@ Slide Decks and Exercises
 
     - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Alex Stamos (Stanford Internet Observatory); Shelby Grossman (Stanford Internet Observatory)
 
--  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) 
+-  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
 
     - Karen Maxim
 
