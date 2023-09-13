@@ -63,7 +63,7 @@ Slide Decks and Exercises
 
     -  Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
--   Emerging Technologies and Career Advice [(Google Slides)](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing)
+-   Emerging Technologies and Career Advice [(Google Slides)](https://docs.google.com/presentation/d/1hQvHxJggiRwQHczaA9fL40V6GM44cOixqQ2S2OEsAhc/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1sUhWuNvlOtxQPIHIGNEKWblvOWXTGKw1FAkl0vXhCEI/edit?usp=sharing)
 
     -  Michael Swenson (Meta); Amar Ashar (Berkman Klein Center)
 
