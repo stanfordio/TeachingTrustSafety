@@ -7,7 +7,7 @@ We are sharing a 13-module reading list and associated slide decks. We created t
 
 The teaching content we created covers sensitive topics, and instructors should carefully review materials before assigning them. Instructors should consider what content warnings they want to apply and what content might not be appropriate for their audience. Many Consortium members tell students what sensitive topics will be covered and when, and they give students the option to skip sensitive classes (or walk out in the middle of class) and skip associated readings without penalty.
 
-Currently the reading list and slide decks are in Google Docs and Google Slides, and we link to the files below. We plan to convert these files into Latex in the coming months to facilitate collaboration.
+Currently the reading list and slide decks are in Google Docs and Google Slides, and we link to the files below. We plan to convert these files into LaTeX in the coming months to facilitate collaboration.
 
 If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium.
 
