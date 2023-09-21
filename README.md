@@ -105,6 +105,9 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 
 -   Joseph Seering, KAIST
     -  Trust and Safety Engineering and Practice
+ 
+-   Sarah Shirazyan, Stanford Law School
+    -  Confronting Misinformation Online: Law and Policy
 
 -   Alex Stamos, Stanford Internet Observatory
     -  Trust and Safety Engineering
