@@ -26,6 +26,7 @@ Slide Decks and Exercises
 -  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
 
     - Karen Maxim
+    - Supplementary slide deck: Copyright Safe Harbors and the DMCA by Justin Francese (University of Oregon) [(Google Slides)](https://docs.google.com/presentation/d/1sh8YGO7fZlvSxPEftmbgjEF8XvJGnuqivb_eSYbi1MA/edit?usp=sharing) 
 
 -  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
