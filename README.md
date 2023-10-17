@@ -52,9 +52,9 @@ Slide Decks and Exercises
 
     - Caroline Humer (International Centre for Missing & Exploited Children); Leslie Taylor (Genpact)
 
--  Suicide, Self-Harm, and Well-Being [(Google Slides)](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AIBPHTRaEHMpB7yVtK7Njh1W4wlEz0EQ3oKGDI1uEKU/edit?usp=sharing)
+-  Suicide, Self-Harm, and Well-Being [(Google Slides)](https://docs.google.com/presentation/d/1JKXChZgK2v4PEH-YZd1Y9GsysDBFO8MGN4nnggY1QdQ/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AIBPHTRaEHMpB7yVtK7Njh1W4wlEz0EQ3oKGDI1uEKU/edit?usp=sharing) [(45 minute lecture from Katherine Keyes, Columbia University)](https://drive.google.com/file/d/1C3d5EJIezj5xFooI1x3S53iWuAXqbg1q/view?usp=sharing)
 
-    -  Katherine Keyes; Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
+    -  Katherine Keyes (Columbia University); Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
 
 -  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
 
