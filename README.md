@@ -32,9 +32,9 @@ Slide Decks and Exercises
 
     - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
--  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Content%20Moderation) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
+-  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Latex Slides - only includes first 37 slides from Google Slides deck)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Content%20Moderation) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
 
-    - Joseph Seering (KAIST)
+    - Joseph Seering (KAIST); Aparna S. Balasundaram (WIPRO); Bindiya L. Raghunath (WIPRO); Jayshree Sarda (WIPRO)
 
 -  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment)
 
