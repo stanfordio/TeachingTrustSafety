@@ -1,4 +1,4 @@
-The Trust & Safety Teaching Consortium 
+The Trust & Safety Teaching Consortium
 =======================================
 
 The Trust & Safety Teaching Consortium is a coalition of academic, industry and non-profit experts in online trust and safety problems. Our goal is to create content that can be used to teach a variety of audiences about trust and safety issues in a wide variety of formats.
@@ -11,7 +11,7 @@ Currently the reading list and slide decks are in Google Docs and Google Slides,
 
 If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium.
 
-Reading List 
+Reading List
 -------------
 
 [Reading list](https://docs.google.com/document/d/179j30Z7TxB4b8r_6wPAcAXrJXctbTOqXRtSb-75UvsI/edit?usp=sharing)
@@ -26,7 +26,7 @@ Slide Decks and Exercises
 -  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
 
     - Karen Maxim
-    - Supplementary slide deck: Copyright Safe Harbors and the DMCA by Justin Francese (University of Oregon) [(Google Slides)](https://docs.google.com/presentation/d/1sh8YGO7fZlvSxPEftmbgjEF8XvJGnuqivb_eSYbi1MA/edit?usp=sharing) 
+    - Supplementary slide deck: Copyright Safe Harbors and the DMCA by Justin Francese (University of Oregon) [(Google Slides)](https://docs.google.com/presentation/d/1sh8YGO7fZlvSxPEftmbgjEF8XvJGnuqivb_eSYbi1MA/edit?usp=sharing)
 
 -  Metrics and Measurement [(Google Slides)](https://docs.google.com/presentation/d/1KeKwltg6pmg5WHuUKLPaiNXfClF9qF8kOu08yVI0CpI/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
@@ -34,11 +34,11 @@ Slide Decks and Exercises
 
 -  Content Moderation [(Google Slides)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Latex Slides - only includes first 37 slides from Google Slides deck)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Content%20Moderation) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
 
-    - Joseph Seering (KAIST); Aparna S. Balasundaram (WIPRO); Bindiya L. Raghunath (WIPRO); Jayshree Sarda (WIPRO) 
+    - Joseph Seering (KAIST); Aparna S. Balasundaram (WIPRO); Bindiya L. Raghunath (WIPRO); Jayshree Sarda (WIPRO)
 
 -  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment)
 
-    -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University) 
+    -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University)
 
 -  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Terrorism%2C%20Radicalization%2C%20and%20Extremism) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing)
 
@@ -80,7 +80,7 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 -   Lee Foster, Johns Hopkins School of Advanced International Studies
     -  Threat Intelligence for Information Operations
 
--   Camille François, Columbia University School of International and Public Affairs 
+-   Camille François, Columbia University School of International and Public Affairs
     -  Introduction to Trust & Safety
 
 -   Justin Francese, University of Oregon
@@ -88,8 +88,8 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 
 -   Beth Goldberg, Yale University
     -  Misinformation in the Age of AI
-      
--   Inbal Goldberger, ActiveFence 
+
+-   Inbal Goldberger, ActiveFence
     -  NYU - ActiveFence Trust & Safety Academy
 
 -   Shelby Grossman, Stanford Internet Observatory
@@ -106,10 +106,9 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 
 -   Joseph Seering, KAIST
     -  Trust and Safety Engineering and Practice
- 
+
 -   Sarah Shirazyan, Stanford Law School
     -  Confronting Misinformation Online: Law and Policy
 
 -   Alex Stamos, Stanford Internet Observatory
     -  Trust and Safety Engineering
-
