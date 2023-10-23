@@ -36,9 +36,9 @@ Slide Decks and Exercises
 
     - Joseph Seering (KAIST); Aparna S. Balasundaram (WIPRO); Bindiya L. Raghunath (WIPRO); Jayshree Sarda (WIPRO)
 
--  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment)
+-  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment) [(45 minute lecture on misinforamtion by Sarah Shirazyan, Stanford Law School)](https://drive.google.com/file/d/1aWOFZ92RAyAyfELRsHnRu0Z0h4cLcLlH/view?usp=sharing)
 
-    -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University)
+    -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University); Sarah Shirazyan (Stanford Law School)
 
 -  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Terrorism%2C%20Radicalization%2C%20and%20Extremism) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing) [(30 minute lecture on terrorism, radicalization, and extremism by Marten Risius, University of Queensland)](https://drive.google.com/file/d/1vQHw8O4nfeJTvR0X7mypjmzaiyVPMMhk/view?usp=sharing)
 
