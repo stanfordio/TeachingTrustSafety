@@ -58,7 +58,7 @@ Slide Decks and Exercises
 
 -  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1EaiI2bDcPLuIbK5ZCsacXdJ6JTxelaJ6mMTKsLWtNY0/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
 
-    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance)
+    -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance); Kashyap Puranik
 
 -  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1EWQEVh4poRkINWgge4zsJmHp0J8Bni23ovc2j7ktyW4/edit?usp=sharing)
 
