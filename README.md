@@ -40,13 +40,13 @@ Slide Decks and Exercises
 
     -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University)
 
--  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Terrorism%2C%20Radicalization%2C%20and%20Extremism) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing)
+-  Terrorism, Radicalization, and Extremism [(Google Slides)](https://docs.google.com/presentation/d/1ZPpSvbp0xC4q1KGkntliPrwuhJng65D7QPWC9apuXjw/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Terrorism%2C%20Radicalization%2C%20and%20Extremism) [(Exercises)](https://docs.google.com/document/d/1MANATPIXk-8Rrquqdec8eijnGvJPL1r0Ob1FYt1YHZE/edit?usp=sharing) [(30 minute lecture on terrorism, radicalization, and extremism by Marten Risius, University of Queensland)](https://drive.google.com/file/d/1vQHw8O4nfeJTvR0X7mypjmzaiyVPMMhk/view?usp=sharing)
 
     -  Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Inga Trauthig (The University of Texas at Austin); Mark Schneider
 
--  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Harassment%20and%20Hate%20Speech) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing)
+-  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Harassment%20and%20Hate%20Speech) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing) [(25 minute lecture on online hate speech by Mark Schneider, University of Pennsylvania)](https://drive.google.com/file/d/1vrEE1kjftvUKtwbE5oj8Q_7R6pjMWnCK/view?usp=sharing)
 
-    - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas)
+    - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas); Mark Schneider (University of Pennsylvania)
 
 -  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing)
 
