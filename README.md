@@ -56,7 +56,7 @@ Slide Decks and Exercises
 
     -  Katherine Keyes (Columbia University); Alex Leavitt (Roblox; UC Berkeley); Elena Cryst (Stanford Internet Observatory); Kathleen Boehle (Securly)
 
--  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1--dh6a_eN-Y6lVobFU1d23uaVnwpRuDy_0zi1DohDqk/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
+-  Authentication, Identity, and Platform Manipulation [(Google Slides)](https://docs.google.com/presentation/d/1EaiI2bDcPLuIbK5ZCsacXdJ6JTxelaJ6mMTKsLWtNY0/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1Wa9G4fGWTT6oAaql3egv5-yY3jCJx75S5na_kbzOvaM/edit?usp=sharing)
 
     -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance)
 
