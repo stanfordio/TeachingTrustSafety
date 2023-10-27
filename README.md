@@ -3,13 +3,13 @@ The Trust & Safety Teaching Consortium
 
 The Trust & Safety Teaching Consortium is a coalition of academic, industry and non-profit experts in online trust and safety problems. Our goal is to create content that can be used to teach a variety of audiences about trust and safety issues in a wide variety of formats.
 
-We are sharing a 13-module reading list and associated slide decks. We created these materials in Spring 2023. We encourage instructors to review readings and slide deck content to ensure they are up to date at the time of use. Note: The slide decks frequently reference readings from the reading list.
+We are sharing a 13-module reading list and associated slide decks, recorded lectures, and exercises. We created these materials in 2023. We encourage instructors to review the resources to ensure they are up to date at the time of use. Note: The slide decks frequently reference readings from the reading list.
 
 The teaching content we created covers sensitive topics, and instructors should carefully review materials before assigning them. Instructors should consider what content warnings they want to apply and what content might not be appropriate for their audience. Many Consortium members tell students what sensitive topics will be covered and when, and they give students the option to skip sensitive classes (or walk out in the middle of class) and skip associated readings without penalty.
 
-Currently the reading list and slide decks are in Google Docs and Google Slides, and we link to the files below. We plan to convert these files into LaTeX in the coming months to facilitate collaboration.
+If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium. 
 
-If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium.
+We encourage you to use this content for your class; please just email to let us know how you are using the resources so we can track our impact.
 
 Reading List
 -------------
