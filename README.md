@@ -112,3 +112,8 @@ Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Yea
 
 -   Alex Stamos, Stanford Internet Observatory
     -  Trust and Safety Engineering
+
+Example Course Descriptions
+-----------
+-   Laura McLester: Digital Safety, [course description](https://docs.google.com/document/d/1yyba_VQ6B93zcq70FcXiYWRvtQ-OSTdb_Vm1SuggoFg/edit?usp=sharing)
+-   Alex Stamos, Jeff Hancock, Shelby Grossman: Trust and Safety Engineering, [course description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+152%3A+Trust+and+Safety+Engineering&collapse=)
