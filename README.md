@@ -117,3 +117,8 @@ Example Course Descriptions
 -----------
 -   Laura McLester: Digital Safety, [course description](https://docs.google.com/document/d/1yyba_VQ6B93zcq70FcXiYWRvtQ-OSTdb_Vm1SuggoFg/edit?usp=sharing)
 -   Alex Stamos, Jeff Hancock, Shelby Grossman: Trust and Safety Engineering, [course description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+152%3A+Trust+and+Safety+Engineering&collapse=)
+
+External Teaching Resources
+-----------
+-    [Trust and Safety Curriculum from the Trust & Safety Professional Association](https://www.tspa.org/curriculum/ts-curriculum/)
+-    [Trust & Safety Tycoon - a game created by Mike Masnick](https://trustandsafety.fun/)
