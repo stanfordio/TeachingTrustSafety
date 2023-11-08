@@ -19,7 +19,7 @@ Reading List
 Slide Decks and Exercises
 -----------
 
--   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety) [(Full-Course Exercise)](https://docs.google.com/document/d/1on99g0WWS8PEMHph1hsSPDOg2reSPhT3FKjVAWi9Swg/edit?usp=sharing) [(20 minute lecture on intelligence in trust and safety by Inbal Goldberger, ActiveFence)](https://drive.google.com/file/d/1KptEGlrC1zQurbr8HXnvQ1gdRB-nT9vV/view?usp=sharing)
+-   Introduction to Trust and Safety [(Google Slides)](https://docs.google.com/presentation/d/1eoN_M4G_Ice21JcivcrDJeaFJ1jtmmC-ynIM6TyAUJU/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety) [(Full-Course Exercise)](https://docs.google.com/document/d/1on99g0WWS8PEMHph1hsSPDOg2reSPhT3FKjVAWi9Swg/edit?usp=sharing) [(20 minute lecture on intelligence in trust and safety by Inbal Goldberger, ActiveFence)](https://drive.google.com/file/d/1pjsrJxWQkv722YeqAU6wNajekc3um4S3/view?usp=sharing)
 
     - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Alex Stamos (Stanford Internet Observatory); Shelby Grossman (Stanford Internet Observatory); Inbal Goldberger (ActiveFence)
 
