@@ -36,7 +36,7 @@ Slide Decks and Exercises
 
     - Joseph Seering (KAIST); Aparna S. Balasundaram (WIPRO); Bindiya L. Raghunath (WIPRO); Jayshree Sarda (WIPRO)
 
--  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment) [(45 minute lecture on misinforamtion by Sarah Shirazyan, Stanford Law School)](https://drive.google.com/file/d/1aWOFZ92RAyAyfELRsHnRu0Z0h4cLcLlH/view?usp=sharing)
+-  Information Environment [(Google Slides)](https://docs.google.com/presentation/d/1omOfvMQdYlbFa-6ji9s3vgAvj4N7AmgCo5INeQjfDzk/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Information%20Environment) [(45 minute lecture on misinformation by Sarah Shirazyan, Stanford Law School)](https://drive.google.com/file/d/1aWOFZ92RAyAyfELRsHnRu0Z0h4cLcLlH/view?usp=sharing)
 
     -  Kevin Aslett (University of Central Florida); Brian Murphy (Georgetown University); Sarah Shirazyan (Stanford Law School)
 
