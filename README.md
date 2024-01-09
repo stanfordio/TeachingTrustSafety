@@ -23,9 +23,9 @@ Slide Decks and Exercises
 
     - Camille François (Columbia University; Niantic Labs); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Matthew Soeth (All Tech is Human / Tremau); Alex Stamos (Stanford Internet Observatory); Shelby Grossman (Stanford Internet Observatory); Inbal Goldberger (ActiveFence)
 
--  Government Regulation [(Google Slides)](https://docs.google.com/presentation/d/1hYz59aNMrl8NCRxDNwFzt7CL7TeKdDwXjqiq0pOHfrE/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
+-  Governments and the Internet [(Google Slides - last updated January 2024)](https://docs.google.com/presentation/d/1U2ucVxSEcnojuGQIa37JWaP9Klqc-Gexlw_NzIZQStw/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Government%20Regulation)
 
-    - Karen Maxim
+    - Karen Maxim (Maxim Law); Chanel Cornett (Zoom)
     - Supplementary slide deck: Copyright Safe Harbors and the DMCA by Justin Francese (University of Oregon) [(Google Slides)](https://docs.google.com/presentation/d/1sh8YGO7fZlvSxPEftmbgjEF8XvJGnuqivb_eSYbi1MA/edit?usp=sharing)
 
 -  Metrics and Measurement [(Google Slides - last updated fall 2023)](https://docs.google.com/presentation/d/1vEJb6CuR8Tyixk7828Yq_URLRxXYoFhaDRDcm8OA87g/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
