@@ -44,9 +44,9 @@ Slide Decks and Exercises
 
     -  Marten Risius (University of Queensland); Mariana Olaizola Rosenblat (NYU Stern Center for Business and Human Rights); Theodora Skeadas (Tech Policy Consulting); Inga Trauthig (The University of Texas at Austin); Mark Schneider
 
--  Harassment and Hate Speech [(Google Slides)](https://docs.google.com/presentation/d/1NcWX0K9w16ijifVji554B3ElxtysNNXOaGcTpafr79o/edit?usp=sharing) [(Latex Slides)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Harassment%20and%20Hate%20Speech) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing) [(25 minute lecture on online hate speech by Mark Schneider, University of Pennsylvania)](https://drive.google.com/file/d/1vrEE1kjftvUKtwbE5oj8Q_7R6pjMWnCK/view?usp=sharing)
+-  Harassment and Hate Speech [(Google Slides - last updated January 2024)](https://docs.google.com/presentation/d/1Up1sanl1LilU4SHl4udprs_XvvACPZSEJYoMWd-zmRU/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Harassment%20and%20Hate%20Speech) [(Exercises)](https://docs.google.com/document/d/1AMbZfkGPzDPHfKV1n7IGUCplLaWk2GJHxTkNC4N44Mw/edit?usp=sharing) [(25 minute lecture on online hate speech by Mark Schneider, University of Pennsylvania)](https://drive.google.com/file/d/1vrEE1kjftvUKtwbE5oj8Q_7R6pjMWnCK/view?usp=sharing)
 
-    - Ina Kamenova (University of Massachusetts Lowell); Q. J. Yao (Lamar University, Texas); Mark Schneider (University of Pennsylvania); Theodora Skeadas
+    - Agnès Evrard; Ina Kamenova (University of Massachusetts Lowell); Mark Schneider (University of Pennsylvania); Theodora Skeadas; Q. J. Yao (Lamar University, Texas)
 
 -  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing)
 
