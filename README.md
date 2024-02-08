@@ -60,9 +60,9 @@ Slide Decks and Exercises
 
     -  Lee Foster (Alperovitch Institute for Cybersecurity Studies at Johns Hopkins School of Advanced International Studies); Tabea Wilke (Twincler); Charu Pokhriyal (Teleperformance); Kashyap Puranik
 
--  Types of Attack Surfaces [(Google Slides)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1EWQEVh4poRkINWgge4zsJmHp0J8Bni23ovc2j7ktyW4/edit?usp=sharing)
+-  Types of Attack Surfaces [(Google Slides, with a focus on cybersecurity - last updated fall 2023)](https://docs.google.com/presentation/d/1IpmYEm5eKx3bYoSXDyud3jhyFkH6F9H_/edit?usp=sharing&ouid=108096568393170327223&rtpof=true&sd=true) [(Google Slides - last updated spring 2023)](https://docs.google.com/presentation/d/1uxQu10dDLH32U9kg-XC9gDUvGHP0dCg22LnInQAtjEU/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1EWQEVh4poRkINWgge4zsJmHp0J8Bni23ovc2j7ktyW4/edit?usp=sharing)
 
-    -  Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
+    -  Kevin Fumai (Oracle); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance)
 
 -   Emerging Technologies and Career Advice [(Google Slides - last updated January 2024)](https://docs.google.com/presentation/d/1L7nG9QpmxPsyapbaSktHmK4eOrfXHCvpxgmURetR0Cs/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1sUhWuNvlOtxQPIHIGNEKWblvOWXTGKw1FAkl0vXhCEI/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Emerging-Trust-and-Safety-Teaching-Consortium)
 
