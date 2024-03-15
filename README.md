@@ -71,6 +71,9 @@ Slide Decks and Exercises for Core Modules
 Teaching Materials Shared by Instructors
 -----------
 -   [Introduction day slide deck](https://drive.google.com/file/d/1dnVfWLqjVI5-7kUDx5k9Owe4Jmfjbjrq/view?usp=sharing) from Kevin Aslett (University of Central Florida) for Politics of Online Security
+-   [Undergraduate syllabus](https://drive.google.com/file/d/1s-BjUebLHxhrIMhpQ_uA2huieL64SoTl/view?usp=sharing) and [graduate syllabus](https://drive.google.com/file/d/10Q8b0veyxGiTFL3mcbxOPNApj26X-lST/view?usp=sharing) from Laura McLester (University of Alabama at Birmingham) for Digital Safety
+-   [Slide deck for lecture on investigations and intelligence](https://docs.google.com/presentation/d/1ZLeB4ApU1ZX0t_I2dCtTxiAe23IRJueg/edit?usp=sharing&ouid=108096568393170327223&rtpof=true&sd=true) from Laura McLester (University of Alabama at Birmingham) for Digital Safety
+-   [Slide deck for lecture on hate speech and harassment](https://docs.google.com/presentation/d/1Q8UBYDpXC4ixpPEBw9gWH_OpQhAWDbMS/edit?usp=sharing&ouid=108096568393170327223&rtpof=true&sd=true) from Laura McLester (University of Alabama at Birmingham) for Digital Safety
 -   [Syllabus](https://drive.google.com/file/d/1wjmme3Bw0r5zV-JliV9iYglz-oHUUHqM/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
 -   [Slide deck for lecture on community moderation](https://drive.google.com/file/d/1qjB7jacwTUlqoJVuagyfOmjvsqHa5JCu/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
 
