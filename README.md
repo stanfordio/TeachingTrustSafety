@@ -11,12 +11,12 @@ If you are interested in helping to create teaching content, email <trustandsafe
 
 We encourage you to use this content for your class; please just email to let us know how you are using the resources so we can track our impact.
 
-Reading List
+Reading List for Core Modules
 -------------
 
 [Reading list](https://docs.google.com/document/d/179j30Z7TxB4b8r_6wPAcAXrJXctbTOqXRtSb-75UvsI/edit?usp=sharing)
 
-Slide Decks and Exercises
+Slide Decks and Exercises for Core Modules
 -----------
 
 -   Introduction to Trust and Safety [(Google Slides - last updated fall 2023)](https://docs.google.com/presentation/d/19TVR_JrNLBLaKG5UvZOwpRQwqxHAmo0BTe9c0YWNAg4/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_Introduction_to_Trust_and_Safety) [(Full-Course Exercise)](https://docs.google.com/document/d/1on99g0WWS8PEMHph1hsSPDOg2reSPhT3FKjVAWi9Swg/edit?usp=sharing) [(20 minute lecture on intelligence in trust and safety by Inbal Goldberger, ActiveFence)](https://drive.google.com/file/d/1pjsrJxWQkv722YeqAU6wNajekc3um4S3/view?usp=sharing)
@@ -67,6 +67,13 @@ Slide Decks and Exercises
 -   Emerging Technologies and Career Advice [(Google Slides - last updated January 2024)](https://docs.google.com/presentation/d/1L7nG9QpmxPsyapbaSktHmK4eOrfXHCvpxgmURetR0Cs/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1sUhWuNvlOtxQPIHIGNEKWblvOWXTGKw1FAkl0vXhCEI/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Emerging-Trust-and-Safety-Teaching-Consortium)
 
     -  Radia Funna (Build n Blaze); Michael Swenson (Meta); Amar Ashar (Berkman Klein Center)
+
+Teaching Materials Shared by Instructors
+-----------
+-   [Introduction day slide deck](https://drive.google.com/file/d/1dnVfWLqjVI5-7kUDx5k9Owe4Jmfjbjrq/view?usp=sharing) from Kevin Aslett (University of Central Florida) for Politics of Online Security
+-   [Syllabus](https://drive.google.com/file/d/1wjmme3Bw0r5zV-JliV9iYglz-oHUUHqM/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
+-   [Slide deck for lecture on community moderation](https://drive.google.com/file/d/1qjB7jacwTUlqoJVuagyfOmjvsqHa5JCu/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
+
 
 Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Year
 -----------
