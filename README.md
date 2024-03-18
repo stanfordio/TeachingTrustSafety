@@ -30,7 +30,7 @@ Slide Decks and Exercises for Core Modules
 
 -  Metrics and Measurement [(Google Slides - last updated fall 2023)](https://docs.google.com/presentation/d/1vEJb6CuR8Tyixk7828Yq_URLRxXYoFhaDRDcm8OA87g/edit?usp=sharing) [(Latex Slides - last updated summer 2023)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Metrics%20and%20Measurement) [(Exercises)](https://docs.google.com/document/d/193l_Y3Nct15nRhg3O7yn8FvlD32fJhqUO_CPcqg_cjQ/edit?usp=sharing)
 
-    - Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance); Hill Stark (ActiveFence); James Gresham (Tripadvisor)
+    - Hill Stark (ActiveFence); Matthew Soeth (All Tech is Human); Justin Francese (University of Oregon); Inbal Goldberger (ActiveFence); Alex Leavitt (Roblox; UC Berkeley); Charu Pokhriyal (Teleperformance); Hill Stark (ActiveFence); James Gresham (Tripadvisor)
 
 -  Content Moderation [(Google Slides - updated spring 2024)](https://docs.google.com/presentation/d/1t9-DjvFmOwmoPN-CDwREP7VqTwijvhW_wgTszn3FMNU/edit?usp=sharing) [(Google Slides - updated fall 2023)](https://docs.google.com/presentation/d/1tzJUNB0fMNV5wQB0rjdc64slcNY_xHncZjPgyFm8huU/edit?usp=sharing) [(Latex Slides - only includes first 37 slides from Google Slides deck)](https://github.com/stanfordio/TeachingTrustSafety/tree/main/Consortium_%20Content%20Moderation) [(Exercises)](https://docs.google.com/document/d/1Gx9lDmBz1k1WR8pqTBWelISW0h2niH-C3DOv0Fqkk5M/edit?usp=sharing)
 
