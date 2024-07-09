@@ -77,8 +77,43 @@ Teaching Materials Shared by Instructors
 -   [Syllabus](https://drive.google.com/file/d/1wjmme3Bw0r5zV-JliV9iYglz-oHUUHqM/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
 -   [Slide deck for lecture on community moderation](https://drive.google.com/file/d/1qjB7jacwTUlqoJVuagyfOmjvsqHa5JCu/view?usp=sharing) from Jospeh Seering (KAIST) for Trust and Safety Engineering
 
+Teaching Consortium Members Teaching Online Safety in the 2024-2025 Academic Year
+-----------
 
-Teaching Consortium Members Teaching Online Safety in the 2023-2024 Academic Year
+-   Olga Belogolova, Johns Hopkins University
+    -  Introduction to Trust and Safety; Influence in the Digital Age
+-   Kevin Blasiak, Vienna University of Technology
+    -  Critical Algorithm Studies
+-   Brad Chen, Stanford University
+    -  Information Integrity
+-   Justin Francese, University of Oregon
+    -  Communication Law
+-   Camille François, Columbia University
+    -  Foundations of Online Trust & Safety
+-   Beth Goldberg, Yale University
+    -  Disinformation in the Age of AI
+-   Shelby Grossman, Stanford University
+    -  Trust & Safety
+-   Jeffrey Hancock,  Stanford University
+    -  Trust & Safety
+-   Ina Kamenova, Merrimack College
+    -  Social Justice; Gender and the Law
+-   Katherine Keyes, Columbia University
+    -  Psychiatric Epidemiology
+-   Darragh McCashin, Dublin City University
+    -  Trust, Safety & Policy
+-   Ece Ozkan, All Tech is Human
+    -  Responsible Tech 101 
+-   Alex Stamos,  Stanford University
+    -  Trust & Safety
+-   Dali Szostak, Universidad de Belgran
+    -  Trust & Safety in User Experience Research
+-   Rebecca Thein, All Tech is Human
+    -  Cyber and Democracy
+-   Q.J. Yao, Lamar University
+    -  Digital Marketing Campaigns
+
+Teaching Consortium Members Who Taught Online Safety in the 2023-2024 Academic Year
 -----------
 
 -   Kevin Aslett, University of Central Florida
