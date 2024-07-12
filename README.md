@@ -86,7 +86,7 @@ Teaching Consortium Members Teaching Online Safety in the 2024-2025 Academic Yea
     -  Critical Algorithm Studies
 -   Brad Chen, Stanford University
     -  Information Integrity
--   Lee Foster, Johns Hopkins School of Advanced International Studies
+-   Lee Foster, Johns Hopkins University
     -  Applied Machine Learning for Threat Intelligence Analysis
 -   Justin Francese, University of Oregon
     -  Communication Law
