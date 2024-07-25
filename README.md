@@ -48,9 +48,9 @@ Slide Decks and Exercises for Core Modules
 
     - Agnès Evrard; Ina Kamenova (University of Massachusetts Lowell); Mark Schneider (University of Pennsylvania); Theodora Skeadas; Q. J. Yao (Lamar University, Texas)
 
--  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing)
+-  Child and Adult Sexual Exploitation [(Google Slides)](https://docs.google.com/presentation/d/1WCbLjWgXPX-Lrfyw86C1oGQmvPMI-3iwpWLvPAiAdws/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1n1-7Tbr126lLLlKBLhR-I8RfQlixz7ejL602k0c2g9s/edit?usp=sharing) [(Short case video)](https://docs.google.com/document/d/1vsGgr-NkUZUB9FVi7yT0iHmg5a9E_arshz8DHCLGf-Y/edit?usp=sharing)
 
-    - Caroline Humer (International Centre for Missing & Exploited Children); Leslie Taylor (Genpact)
+    - Caroline Humer (International Centre for Missing & Exploited Children); Leslie Taylor (Genpact); Jace Pomales
 
 -  Suicide, Self-Harm, and Well-Being [(Google Slides - last updated fall 2023)](https://docs.google.com/presentation/d/1-t9-6NuN6CfHHEFCyZcWbjDwEKiXthe46xVO3Jca2Z4/edit?usp=sharing) [(Exercises)](https://docs.google.com/document/d/1AIBPHTRaEHMpB7yVtK7Njh1W4wlEz0EQ3oKGDI1uEKU/edit?usp=sharing) [(45 minute lecture from Katherine Keyes, Columbia University)](https://drive.google.com/file/d/1C3d5EJIezj5xFooI1x3S53iWuAXqbg1q/view?usp=sharing)
 
