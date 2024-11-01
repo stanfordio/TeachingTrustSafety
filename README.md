@@ -92,7 +92,7 @@ Teaching Consortium Members Teaching Online Safety in the 2024-2025 Academic Yea
     -  Communication Law
 -   Camille François, Columbia University
     -  Foundations of Online Trust & Safety
--   Beth Goldberg, Yale University
+-   Beth Goldberg and Ziad Reslan, Yale University
     -  Disinformation in the Age of AI
 -   Shelby Grossman, Stanford University
     -  Trust & Safety
