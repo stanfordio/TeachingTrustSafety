@@ -7,7 +7,7 @@ We are sharing a 13-module reading list and associated slide decks, recorded lec
 
 The teaching content we created covers sensitive topics, and instructors should carefully review materials before assigning them. Instructors should consider what content warnings they want to apply and what content might not be appropriate for their audience. Many Consortium members tell students what sensitive topics will be covered and when, and they give students the option to skip sensitive classes (or walk out in the middle of class) and skip associated readings without penalty.
 
-If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium. 
+If you are interested in helping to create teaching content, email <trustandsafetyjournal@stanford.edu> to join the Consortium. Please include a sentence or two on your area of expertise, along with your professional affiliation if applicable.
 
 We encourage you to use this content for your class; please just email to let us know how you are using the resources so we can track our impact.
 
