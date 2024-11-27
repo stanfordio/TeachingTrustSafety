@@ -151,6 +151,7 @@ Example Course Descriptions
 -----------
 -   Kevin Blasiak: Critical Algorithm Studies, [course description](https://docs.google.com/document/d/1Zb19rqJZScBf9WFMtkeGuBbziwoadymbFJ36CmSigyM/edit?usp=sharing)
 -   Beth Goldberg and Ziad Reslan: Disinformation in the Age of AI, [course description](https://docs.google.com/document/d/1N3_tDsD1A7ys8R366iuXJOd5bEXqQgdQx_WU1Q_yEPw/edit?usp=sharing)
+-   Alexios Mantzarlis and Thomas Ristenpart: Trust and Safety: Platforms, Policies, Products, [course description](https://courses.cornell.edu/preview_course_nopop.php?catoid=60&coid=1123126)
 -   Laura McLester: Digital Safety, [course description](https://docs.google.com/document/d/1yyba_VQ6B93zcq70FcXiYWRvtQ-OSTdb_Vm1SuggoFg/edit?usp=sharing)
 -   Brad Shen: Stanford University, [course description](https://bulletin.stanford.edu/courses/2265711)
 -   Alex Stamos, Jeff Hancock, Shelby Grossman: Trust and Safety, [course description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+152%3A+Trust+and+Safety+Engineering&collapse=)
